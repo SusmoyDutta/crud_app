@@ -12,7 +12,7 @@ User Profiles: Customizable user profiles with relevant information and preferen
 Discussion Forums: Engage in discussions with other community members.
 Search and Filter: Advanced search and filter options to find relevant events and discussions.
 
-## Getting Started![crud_create_image](https://github.com/user-attachments/assets/250c842c-036b-4d1a-88ee-7bed72922cf3)![crud_home_image](https://github.com/user-attachments/assets/f2e2bf13-102f-440f-bf81-5da8e7d94c57)
+## Getting Started![splash_image](https://github.com/user-attachments/assets/593c2f02-6f6e-4865-bf44-d5634aaced49)![crud_home_image](https://github.com/user-attachments/assets/f2e2bf13-102f-440f-bf81-5da8e7d94c57![crud_menu_image](https://github.com/user-attachments/assets/2d9e042d-8f2c-4e7d-9796-92b3023c6add![crud_create_image](https://github.com/user-attachments/assets/250c842c-036b-4d1a-88ee-7bed72922cf3)!
 
 
 
